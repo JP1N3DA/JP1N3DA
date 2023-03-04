@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @JP1N3DA
+- 👋 Hi, I’m @JP1N3D@
 - 👀 I’m interested in Developing
+- new to AWS 
+- learning infrastructure as code
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on making life easy
 - 📫 How to reach me pineda.julio.antonio@gmail.com
